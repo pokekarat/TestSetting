@@ -25,4 +25,74 @@
         android:text="refresh_token"
         tools:layout_editor_absoluteX="217dp"
         tools:layout_editor_absoluteY="25dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="41dp"
+        android:layout_y="92dp"
+        android:text="static"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="99dp" />
+
+    <EditText
+        android:id="@+id/editText6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="55dp"
+        android:layout_y="398dp"
+        android:ems="10"
+        android:hint="dns2"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="149dp" />
+
+    <EditText
+        android:id="@+id/editText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="55dp"
+        android:layout_y="332dp"
+        android:ems="10"
+        android:hint="dns1"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="149dp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="52dp"
+        android:layout_y="266dp"
+        android:ems="10"
+        android:hint="gateway"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="149dp" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="47dp"
+        android:layout_y="203dp"
+        android:ems="10"
+        android:hint="Subnet"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="149dp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="44dp"
+        android:layout_y="152dp"
+        android:ems="10"
+        android:hint="IP"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="43dp"
+        tools:layout_editor_absoluteY="149dp" />
 </AbsoluteLayout>
